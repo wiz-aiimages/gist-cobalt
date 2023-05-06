@@ -32,6 +32,6 @@ Cobalt Theme For GitHub Gist
 }
 </style>
 ```
-Then Paste CSS In `<head>` and The js right before `</body>` Tag
+# Then Paste CSS In `<head>` and The js right before `</body>` Tag
 ### CSS: [JSDelivr](https://cdn.jsdelivr.net/gh/wiz-aiimages/gist-cobalt/cobalt.min.css)
 ### JS: [JSDelivr](https://cdn.jsdelivr.net/gh/wiz-aiimages/gist-cobalt/cobalt.min.js)
